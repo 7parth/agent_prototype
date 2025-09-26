@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+python-dotenv
+supabase
+langchain
+langchain-google-genai
+google-ai-generativelanguage
+orjson
+pydantic
+starlette
